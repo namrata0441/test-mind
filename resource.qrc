@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icon/aboutus_icon.png</file>
+    <file>icon/flashcard_icon.png</file>
+    <file>icon/home_icon.png</file>
+    <file>icon/logo_icon.png</file>
+    <file>icon/logout_icon.png</file>
+    <file>icon/menu_icon.png</file>
+    <file>icon/person_icon.png</file>
+    <file>icon/quizzes_icon.png</file>
+    <file>icon/search_icon.png</file>
+    <file>icon/setting_icon.png</file>
+  </qresource>
+</RCC>

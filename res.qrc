@@ -1,0 +1,9 @@
+
+<!DOCTYPE RCC>
+<RCC version="1.0">
+  <qresource prefix="/image">  <!-- Changed to /image -->
+    <file>background.jpeg</file>
+    <file>mz.jpg</file>
+    <file>profile.jpeg</file>
+  </qresource>
+</RCC>
